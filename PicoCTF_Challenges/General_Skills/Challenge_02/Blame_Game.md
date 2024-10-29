@@ -91,7 +91,7 @@ Date:   Tue Mar 12 00:07:15 2024 +0000
 ```
 And there we have the flag in the second commit.
  
-# Learning Outcome from the Blame Game Challenge
+## Learning Outcome from the Blame Game Challenge
 
 This challenge showcases useful skills for working with Git in a cybersecurity context. Here are some key takeaways:
 
