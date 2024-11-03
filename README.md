@@ -4,48 +4,78 @@
 ### **Internship Duration:** 5th September 2024 – 5th November 2024  
 ### **Task Submission Deadline:** 3rd November 2024  
 
+---
+
+## Greetings
+
+Dear Vault-Tec Security Team,
+
+Thank you for the continued opportunity to work on challenging and insightful tasks that push my cybersecurity skills forward. Reflecting on last month, I feel both encouraged and motivated, and I’m excited to take on this next set of assignments. Your guidance has been invaluable, and I’m looking forward to learning even more in the coming phase.
+
+With sincere appreciation,  
+Ajinkya Kamthe  
+
+---
+
 ## Overview
-This repository contains the tasks completed during the second month of my cybersecurity internship. The tasks focus on hands-on experience with the OWASP Top 10 vulnerabilities, solving PicoCTF challenges, and conducting a bug bounty.
+
+This repository contains my submissions for the second month of my cybersecurity internship with Vault-Tec Security. The focus this month has been on hands-on practice with OWASP Top 10 vulnerabilities, solving challenges on PicoCTF, and conducting a live bug bounty assessment. Each task section is carefully documented to reflect my process, insights, and applied learning.
 
 ### Repository Structure
 
 - **TryHackMe_OWASP_Top10**  
-  Contains documentation and analysis for each OWASP Top 10 vulnerability, along with explanations on exploitation methods and mitigation techniques.  
+  Contains documentation for OWASP Top 10 vulnerabilities, explaining exploitation techniques and mitigation strategies.
 
 - **PicoCTF_Challenges**  
-  Contains solutions for 40 PicoCTF challenges, along with explanations and learning takeaways for each challenge.
+  Contains solutions for 40 PicoCTF challenges, detailing the approach, solution methods, and key takeaways for each challenge.
 
 - **Bug_Bounty**  
-  Contains documentation on live website reconnaissance and bug discovery as part of a bug bounty program, including identified vulnerabilities, steps to reproduce, and mitigation recommendations.
+  Contains documentation of reconnaissance and vulnerability-testing efforts conducted on a live website, with detailed findings and suggested mitigations.
 
 ---
 
 ## Task Summaries
 
-### 1. TryHackMe Labs - OWASP Top 10
+### 1. TryHackMe Labs—OWASP Top 10
 
-Completed TryHackMe labs covering the OWASP Top 10 vulnerabilities. Each vulnerability includes:
-- **Description** of the vulnerability.
-- **Exploitation Method** with practical steps.
-- **Mitigation Techniques** for protection.
+**Task:** Complete TryHackMe labs focused on the OWASP Top 10 vulnerabilities.  
+**Details:** Each vulnerability is documented with:
+- **Description**
+- **Exploitation Techniques**
+- **Mitigation Methods**
 
 > **Directory:** [TryHackMe_OWASP_Top10](./TryHackMe_OWASP_Top10)
 
 ### 2. PicoCTF Challenges
 
-Solved 40 challenges on PicoCTF covering various cybersecurity areas like Forensics, General Skills, and Cryptography. Each solution contains:
-- **Challenge Summary** with the solution approach.
-- **Steps and Techniques** used.
-- **Learning Outcome** for each challenge.
+**Task:** Complete 40 challenges on PicoCTF, covering various cybersecurity areas like Forensics, General Skills, and Cryptography.  
+**Details:** Each solved challenge includes:
+- **Challenge Summary**
+- **Solution Techniques**
+- **Learning Takeaways**
 
 > **Directory:** [PicoCTF_Challenges](./PicoCTF_Challenges)
 
 ### 3. Bug Bounty
 
-Conducted a bug bounty assessment on a live website within a Bug Bounty Program's scope. The report for each identified vulnerability includes:
-- **Bug Description** and **Steps to Reproduce**.
-- **Impact Analysis** of the vulnerability.
-- **Mitigation Suggestions** for securing the website.
+**Task:** Conduct a bug bounty assessment on a live website, focusing on vulnerabilities such as XSS, SQL Injection, subdomain takeovers, etc., within the scope of Bug Bounty Programs.  
+**Details:** Each identified vulnerability includes:
+- **Bug Description**
+- **Steps to Reproduce**
+- **Mitigation Suggestions**
 
 > **Directory:** [Bug_Bounty](./Bug_Bounty)
 
+---
+
+## Submission
+
+All reports and solutions are documented in this repository, organized by task in separate folders. Each file includes step-by-step explanations, relevant screenshots, and code snippets where applicable.
+
+
+---
+
+Thank you again to Vault-Tec Security for this valuable learning experience. I look forward to receiving your feedback and continuing to strengthen my skills through this program. 
+
+Best regards,  
+Ajinkya Kamthe
