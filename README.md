@@ -2,7 +2,7 @@
 
 ### **Submitted by:** Ajinkya Kamthe  
 ### **Internship Duration:** 5th September 2024 – 5th November 2024  
-### **Task Submission Deadline:** 3rd November 2024  
+### **Task Submission Date:** 3rd November 2024  
 
 ---
 
