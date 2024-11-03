@@ -1,0 +1,101 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirb_results.txt
+START_TIME: Sun Nov  3 02:22:06 2024
+URL_BASE: https://www.firstcry.com/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: https://www.firstcry.com/ ----
++ https://www.firstcry.com/.htaccess (CODE:403|SIZE:199)
++ https://www.firstcry.com/aboutus (CODE:301|SIZE:0)
++ https://www.firstcry.com/AboutUs (CODE:301|SIZE:0)
++ https://www.firstcry.com/adminlogin (CODE:301|SIZE:178)
++ https://www.firstcry.com/alert (CODE:302|SIZE:33)
++ https://www.firstcry.com/alerts (CODE:302|SIZE:33)
++ https://www.firstcry.com/application (CODE:403|SIZE:199)
++ https://www.firstcry.com/careers (CODE:200|SIZE:23932)
++ https://www.firstcry.com/cart (CODE:200|SIZE:11097)
++ https://www.firstcry.com/checkout (CODE:503|SIZE:371)
++ https://www.firstcry.com/checkout_iclear (CODE:503|SIZE:371)
++ https://www.firstcry.com/checkoutanon (CODE:503|SIZE:371)
++ https://www.firstcry.com/checkoutreview (CODE:503|SIZE:371)
++ https://www.firstcry.com/club (CODE:200|SIZE:230789)
++ https://www.firstcry.com/cluster (CODE:200|SIZE:230807)
++ https://www.firstcry.com/clusters (CODE:200|SIZE:230815)
++ https://www.firstcry.com/confirm (CODE:302|SIZE:33)
++ https://www.firstcry.com/confirmed (CODE:302|SIZE:33)
++ https://www.firstcry.com/contactus (CODE:200|SIZE:544847)
++ https://www.firstcry.com/ContactUs (CODE:200|SIZE:544847)
++ https://www.firstcry.com/fabric (CODE:200|SIZE:140880)
++ https://www.firstcry.com/face (CODE:200|SIZE:140859)
++ https://www.firstcry.com/facebook (CODE:200|SIZE:140887)
++ https://www.firstcry.com/faces (CODE:200|SIZE:140866)
++ https://www.firstcry.com/facts (CODE:200|SIZE:140866)
++ https://www.firstcry.com/faculty (CODE:200|SIZE:140880)
++ https://www.firstcry.com/fail (CODE:200|SIZE:140866)
++ https://www.firstcry.com/failed (CODE:200|SIZE:140880)
++ https://www.firstcry.com/failure (CODE:200|SIZE:140887)
++ https://www.firstcry.com/fake (CODE:200|SIZE:140859)
++ https://www.firstcry.com/family (CODE:200|SIZE:140873)
++ https://www.firstcry.com/fancybox (CODE:200|SIZE:140895)
++ https://www.firstcry.com/faq (CODE:200|SIZE:140852)
++ https://www.firstcry.com/FAQ (CODE:200|SIZE:140852)
++ https://www.firstcry.com/faqs (CODE:200|SIZE:140859)
++ https://www.firstcry.com/fashion (CODE:200|SIZE:140880)
++ https://www.firstcry.com/favicon.ico (CODE:200|SIZE:137139)
++ https://www.firstcry.com/favorite (CODE:200|SIZE:140887)
++ https://www.firstcry.com/favorites (CODE:200|SIZE:140894)
++ https://www.firstcry.com/feedback (CODE:200|SIZE:5058)
++ https://www.firstcry.com/feedback_js (CODE:200|SIZE:5058)
++ https://www.firstcry.com/gifts (CODE:301|SIZE:0)
++ https://www.firstcry.com/index (CODE:200|SIZE:98552)
++ https://www.firstcry.com/Index (CODE:200|SIZE:98552)
++ https://www.firstcry.com/index.php (CODE:200|SIZE:105977)
++ https://www.firstcry.com/info.php (CODE:200|SIZE:3)
++ https://www.firstcry.com/intelligence (CODE:301|SIZE:0)
++ https://www.firstcry.com/login (CODE:301|SIZE:0)
++ https://www.firstcry.com/Login (CODE:301|SIZE:0)
++ https://www.firstcry.com/logout (CODE:301|SIZE:0)
++ https://www.firstcry.com/m (CODE:301|SIZE:35)
++ https://www.firstcry.com/M (CODE:200|SIZE:18415)
++ https://www.firstcry.com/offerdetail (CODE:307|SIZE:0)
++ https://www.firstcry.com/offers (CODE:200|SIZE:120539)
++ https://www.firstcry.com/pack (CODE:200|SIZE:4963)
++ https://www.firstcry.com/package (CODE:200|SIZE:4963)
++ https://www.firstcry.com/packaged (CODE:200|SIZE:4963)
++ https://www.firstcry.com/packages (CODE:200|SIZE:4963)
++ https://www.firstcry.com/packaging (CODE:200|SIZE:4963)
++ https://www.firstcry.com/packed (CODE:200|SIZE:4963)
++ https://www.firstcry.com/payment_gateway (CODE:200|SIZE:125710)
++ https://www.firstcry.com/payments (CODE:200|SIZE:125956)
++ https://www.firstcry.com/privacypolicy (CODE:200|SIZE:110021)
++ https://www.firstcry.com/registered (CODE:301|SIZE:0)
++ https://www.firstcry.com/robots.txt (CODE:200|SIZE:29209)
++ https://www.firstcry.com/search (CODE:200|SIZE:507683)
++ https://www.firstcry.com/Search (CODE:200|SIZE:507684)
++ https://www.firstcry.com/search_result (CODE:200|SIZE:507652)
++ https://www.firstcry.com/search_results (CODE:200|SIZE:507772)
++ https://www.firstcry.com/searchnx (CODE:200|SIZE:507706)
++ https://www.firstcry.com/searchresults (CODE:200|SIZE:3083382)
++ https://www.firstcry.com/search-results (CODE:200|SIZE:507772)
++ https://www.firstcry.com/searchurl (CODE:200|SIZE:507716)
++ https://www.firstcry.com/sitemap (CODE:200|SIZE:133259)
++ https://www.firstcry.com/SiteMap (CODE:200|SIZE:133259)
++ https://www.firstcry.com/sitemap.gz (CODE:200|SIZE:133280)
++ https://www.firstcry.com/sitemap.xml (CODE:200|SIZE:129793)
++ https://www.firstcry.com/sitemaps (CODE:200|SIZE:133259)
++ https://www.firstcry.com/system (CODE:403|SIZE:199)
++ https://www.firstcry.com/termsofuse (CODE:200|SIZE:327673)
++ https://www.firstcry.com/testimonials (CODE:200|SIZE:108238)
+
+-----------------
+END_TIME: Sun Nov  3 02:33:08 2024
+DOWNLOADED: 4612 - FOUND: 81

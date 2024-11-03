@@ -1,0 +1,19 @@
+# Nmap 7.94SVN scan initiated Sun Nov  3 01:56:32 2024 as: nmap -O -oN os_detection.txt firstcry.com
+Nmap scan report for firstcry.com (3.7.108.7)
+Host is up (0.021s latency).
+rDNS record for 3.7.108.7: ec2-3-7-108-7.ap-south-1.compute.amazonaws.com
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2000/tcp open  cisco-sccp
+5060/tcp open  sip
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: bridge|general purpose
+Running (JUST GUESSING): Oracle Virtualbox (98%), QEMU (94%)
+OS CPE: cpe:/o:oracle:virtualbox cpe:/a:qemu:qemu
+Aggressive OS guesses: Oracle Virtualbox (98%), QEMU user mode network gateway (94%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Nov  3 01:56:46 2024 -- 1 IP address (1 host up) scanned in 13.85 seconds
