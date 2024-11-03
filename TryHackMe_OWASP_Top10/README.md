@@ -6,7 +6,7 @@ Welcome to the **TryHackMe - OWASP Top 10** directory! This repository contains 
 
 This directory includes the following markdown files, each dedicated to one of the OWASP Top 10 vulnerabilities:
 
-- [01.Injection.md](01..md): Details on injection vulnerabilities, exploitation methods, and mitigation techniques.
+- [01.Injection.md](01.Injection.md): Details on injection vulnerabilities, exploitation methods, and mitigation techniques.
 - [02.Broken_Authentication.md](02.Broken_Authentication.md): Information on broken authentication issues and strategies to secure applications.
 - [03.Sensitive_Data_Exposure.md](03.Sensitive_Data_Exposure.md): Overview of sensitive data exposure risks and best practices for protection.
 - [04.XML_External_Entity.md](04.XML_External_Entity.md): Explanation of XML External Entity (XXE) vulnerabilities and how to mitigate them.
